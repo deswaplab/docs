@@ -1,6 +1,6 @@
 # Overview
 
-Deswap is a collection of tools to help you wrap your digital assets into a new fun NFT which can provide extra liquidity for your assets.
+Deswap is a collection of tools to help you wrap your digital assets into a new NFT which can provide extra liquidity for your assets.
 
 What's the most important thing for a digital asset? I would say liquidity, if one token lost liquidity, its value would become 0. How do people solve liquidity problem in web3 world? For ERC20 tokens, there is uniswap and its AMM model. For ERC721/ERC1155 tokens, there are a lot of NFT marketplaces like opensea and blur. Is that enough for liquidity? I would say no, a lot of meme coins have lost their value, no one would trade on uniswap, a lot of NFTs no people would buy. Deswap is the solution to these problems.
 
